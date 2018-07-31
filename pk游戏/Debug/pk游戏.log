@@ -1,4 +1,0 @@
-﻿  PK游戏.cpp
-d:\work\student\bj_c++_30(20180504)\c++_case_day04\code\pk游戏\pk游戏\pk游戏.cpp(16): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  pk游戏.vcxproj -> D:\work\student\bj_c++_30(20180504)\C++_Case_Day04\Code\pk游戏\Debug\pk游戏.exe
-  pk游戏.vcxproj -> D:\work\student\bj_c++_30(20180504)\C++_Case_Day04\Code\pk游戏\Debug\pk游戏.pdb (Full PDB)
