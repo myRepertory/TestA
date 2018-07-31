@@ -9,6 +9,7 @@
 #include"boardSword.h"
 #include"DragonSword.h"
 #include<ctime>
+
 using namespace std;
 void fighting();
 int main(int *argc, char *argv[])
